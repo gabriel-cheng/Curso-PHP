@@ -119,5 +119,29 @@
                 }
             ?>
         </li>
+    </ul>
+    <br>
+    <li>
+        <?php
+            echo 'Spaceship';
+        ?>
+    </li>
     <ul>
-<ul>
+        <li>
+            <?php
+                var_dump(5 <=> 3); //Operador Spaceship, valor da esqueda maior que o da direita
+            ?>
+        </li>
+        <li>
+            <?php
+                var_dump(5 <=> 5); //Números iguais
+            ?>
+        </li>
+        <li>
+            <?php
+                var_dump(5 <=> 7); //Valor da direita maior que o da esquerda
+            ?>
+        </li>
+    </ul>
+</ul>
+<p class="p">
