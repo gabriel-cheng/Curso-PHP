@@ -25,54 +25,59 @@
                                 If Else
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=op_relacionais">
+                                Operadores Relacionais
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
-                        <h3>3. Variáveis</h3>
-                        <ul>
-                            <li>
-                                <a href="exercicio.php?dir=variaveis&file=basico">
-                                    Básico Variáveis
-                                </a>
-                            </li>
+                    <h3>3. Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Básico Variáveis
+                            </a>
+                        </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
-                                    Desafio Equação
+                                Desafio Equação
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=atribuicoes">
-                                    Atribuições
+                                Atribuições
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=interpolacao">
-                                    Interpolação
+                                Interpolação
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
-                                    Variáveis Variáveis
+                                Variáveis Variáveis
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
-                                    Desafio Variáveis
+                                Desafio Variáveis
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=valor_referencia_teoria">
-                                    Valor x Referência - Teoria
+                                Valor x Referência - Teoria
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=valor_referencia_pratica">
-                                    Valor x Referência - Prática
+                                Valor x Referência - Prática
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=constantes">
-                                    Constantes
+                                Constantes
                             </a>
                         </li>
                     </ul>
