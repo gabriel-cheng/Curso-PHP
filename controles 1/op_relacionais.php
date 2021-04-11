@@ -87,6 +87,15 @@
             ?>
         </li>
     </ul>
+</ul>
+<p class="p">
+<style>
+    p{
+        border-bottom: 1px solid #000;
+        margin-top: -27px
+    }
+</style>
+<ul>
     <li>
         <?php
             echo 'Relacionais com condições';
