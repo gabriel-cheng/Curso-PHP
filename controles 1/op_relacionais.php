@@ -87,7 +87,6 @@
 <li>
     <?php
         echo 'Compara o tipo: 1 !== \'1\'' . var_dump(1 !== '1'); //Comparação estrita
-        echo "<hr>";
     ?>
 </li>
 <ul>
