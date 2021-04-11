@@ -78,7 +78,7 @@
             echo 'Variáveis pré-definidas: Clique no botão para acessar o site! <br>';
         ?>
         <a href="https://www.php.net/manual/pt_BR/reserved.variables.php" target="_blank">
-            <button>Visitar Site</button>
+            <button class="btn">Visitar Site</button>
         </a>
     </li>
 </ul>
