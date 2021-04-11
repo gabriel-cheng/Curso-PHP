@@ -57,7 +57,6 @@
         </ul>
     </ul>
     <ul>
-        </li>
         <li>
             <?php
                 echo 'Compara o valor: 1 == \'1\'' . var_dump(1 == '1'); //Comparação comum
@@ -82,14 +81,13 @@
                 echo 'Compara o valor: 1 != \'1\'' . var_dump(1 != '1'); //Comparação comum
             ?>
         </li>
+        <li>
+            <?php
+                echo 'Compara o tipo: 1 !== \'1\'' . var_dump(1 !== '1'); //Comparação estrita
+                echo "<hr>";
+            ?>
+        </li>
     </ul>
-</ul>
-<li>
-    <?php
-        echo 'Compara o tipo: 1 !== \'1\'' . var_dump(1 !== '1'); //Comparação estrita
-    ?>
-</li>
-<ul>
     <li>
         <?php
             echo 'Relacionais com condições';
