@@ -30,6 +30,11 @@
                                 Operadores Relacionais
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=desafio_pi">
+                                Desafio PI
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
