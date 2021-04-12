@@ -14,3 +14,8 @@
     color: #000;
     border: 2px solid #888;
 }
+
+.strong{
+    margin-bottom: 0px;
+    font-weight: 800;
+}
