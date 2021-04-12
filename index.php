@@ -35,6 +35,11 @@
                                 Desafio PI
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=op_logicos">
+                                Operadores Lógicos
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
