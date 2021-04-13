@@ -16,6 +16,7 @@
     </header>
     <main class="principal">
         <div class="conteudo">
+            <h1 class="module_title">MÓDULOS</h1>
             <nav class="modulos">
                 <div class="modulo roxo">
                     <h3>4. Controles I</h3>
