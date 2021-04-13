@@ -137,5 +137,28 @@ body {
 .modulo.roxo-escuro { border: 2px solid #4A148C; }
 .modulo.roxo-escuro > h3 { background-color: #4A148C; }
 
-.modulo.amarelo { border: 2px solid #fffb00; } /*Extras*/
-.modulo.amarelo > h3 { background-color: #fffb00; } /*Extras*/
+/*Extras*/
+
+.modulo.web { border: 2px solid #ff00b3; }
+.modulo.web > h3 { background-color: #ff00b3; }
+
+.modulo.javascript { border: 2px solid #f1cd00; }
+.modulo.javascript > h3 { background-color: #f1cd00; }
+
+.modulo.html { border: 2px solid #00ffc8; }
+.modulo.html > h3 { background-color: #00ffc8; }
+
+.modulo.css { border: 2px solid #cc00ff; }
+.modulo.css > h3 { background-color: #cc00ff; }
+
+.modulo.htmlcssjs { border: 2px solid #806fca; }
+.modulo.htmlcssjs > h3 { background-color: #806fca; }
+
+.modulo.ajax { border: 2px solid #610e0e; }
+.modulo.ajax > h3 { background-color: #610e0e; }
+
+.modulo.jquery > h3 { background-color: #2b1e49; }
+.modulo.jquery { border: 2px solid #2b1e49; }
+
+.modulo.bancorelacional { border: 2px solid #0b6b23; }
+.modulo.bancorelacional > h3 { background-color: #0b6b23; }
