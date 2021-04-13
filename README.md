@@ -15,26 +15,36 @@
     </li>
     <ul>
         <li>
-            <strong>HTML;</strong>
+            <strong>PRINCIPAIS/FOCO</strong>
         </li>
+        <ul>
+            <li>
+                <strong>HTML;</strong>
+            </li>
+            <li>
+                <strong>CSS;</strong>
+            </li>
+            <li>
+                <strong>PHP;</strong>
+            </li>
+        </ul>
         <li>
-            <strong>CSS;</strong>
+            <strong>ADICIONAIS</strong>
         </li>
-        <li>
-            <strong>PHP;</strong>
-        </li>
-        <li>
-            <strong>CSS;</strong>
-        </li>
-        <li>
-            <strong>AJAX;</strong>
-        </li>
-        <li>
-            <strong>jQuery;</strong>
-        </li>
-        <li>
-            <strong>BD MySQL;</strong>
-        </li>
+        <ul>
+            <li>
+                <strong>JavaScript;</strong>
+            </li>
+            <li>
+                <strong>AJAX;</strong>
+             </li>
+            <li>
+                <strong>jQuery;</strong>
+            </li>
+            <li>
+                <strong>BD MySQL;</strong>
+            </li>
+        </ul>
     </ul>
     <br>
     <li>
