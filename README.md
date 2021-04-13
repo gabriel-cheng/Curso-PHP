@@ -6,6 +6,9 @@
         <li>
             <strong>O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, CSS, jQuery, Ajax e Básico de JavaScrip.</strong>
         </li>
+        <li>
+            <strong>Ênfase em PHP, HTML e CSS.</strong>
+        </li>
     </ul>
     <br>
     <li>
