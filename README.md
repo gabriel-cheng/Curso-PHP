@@ -37,7 +37,7 @@
                 <strong>JavaScript;</strong>
             </li>
             <li>
-                <strong>AJAX;</strong>
+                <strong>Ajax;</strong>
              </li>
             <li>
                 <strong>jQuery;</strong>
