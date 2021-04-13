@@ -15,7 +15,7 @@
     </li>
     <ul>
         <li>
-            <strong>PRINCIPAIS/FOCO</strong>
+            <strong>ÊNFASE</strong>
         </li>
         <ul>
             <li>
