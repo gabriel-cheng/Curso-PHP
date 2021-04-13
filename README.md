@@ -4,7 +4,7 @@
     </li>
     <ul>
         <li>
-            O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, e CSS e afins.
+            O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, CSS e afins.
         </li>
     </ul>
     <br>
