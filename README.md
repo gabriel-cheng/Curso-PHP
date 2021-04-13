@@ -1,10 +1,10 @@
 <ul>
     <li>
-        <strong>PARA QUE SERVE ESTE SITE?</strong>
+        <h1>PARA QUE SERVE ESTE SITE?</h1>
     </li>
     <ul>
         <li>
-            O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, CSS e afins.
+            <strong>O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, CSS e afins.</strong>
         </li>
     </ul>
     <br>
@@ -13,7 +13,8 @@
     </li>
     <ul>
         <li>
-            Atualmente o site não possui um domínio. Portanto, estou disponibilizando apenas o código fonte para que possa ser analisado diretamente por quem tiver interesse de conhecer o projeto.
+            <strong>Atualmente o site não possui um domínio. Portanto, estou disponibilizando apenas o código fonte para que possa ser analisado diretamente por quem tiver interesse de conhecer o projeto.</strong>
         </li>
     </ul>
 </ul>
+
