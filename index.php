@@ -138,15 +138,15 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo verde">
-                    <h3>1. Básico</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=basico&file=ola">
-                                Olá PHP
-                            </a>
-                        </li>
-                        <li>
+                    <div class="modulo verde">
+                        <h3>1. Básico</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=basico&file=ola">
+                                    Olá PHP
+                                </a>
+                            </li>
+                            <li>
                             <a href="exercicio.php?dir=basico&file=html">
                                 Integração HTML
                             </a>
@@ -168,30 +168,27 @@
                         </li>
                     </ul>
                 </div>
-                <div>
-                    <h1 class="module_title">MÓDULOS</h1>
-                    <div class="modulo html">
-                        <h3>Conteúdo Extra - HTML</h3>
-                        <ul>
-                            <li>
-                                <a href="exercicio.php?dir=extra/form&file=form">
-                                    Formulários - HTML
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="modulo web">
-                        <h3>Conteúdo Extra - Conceitos WEB</h3>
-                        <ul>
-                            <li>
-                                <a href="exercicio.php?dir=extra/web&file=http">
-                                Protocolo HTTP
+                <div class="modulo html">
+                    <h3>Conteúdo Extra - HTML</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=extra/form&file=form">
+                                Formulários - HTML
                             </a>
                         </li>
-                    </div>
+                    </ul>
                 </div>
-            </nav>
-        </div>
+                <div class="modulo web">
+                    <h3>Conteúdo Extra - Conceitos WEB</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=extra/web&file=http">
+                            Protocolo HTTP
+                        </a>
+                    </li>
+                </div>  
+            </van>  
+        </div>  
     </main>
 <footer class="rodape">
     GABRIEL © <?= date('d'); ?> de <?= date('M'); ?>, <?= date('Y'); ?>
