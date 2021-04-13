@@ -172,5 +172,49 @@
         </ul>
     </ul>
 </ul>
+<p class="line">
+<ul>
+    <li>
+        <?php
+            print '<p class="strong">Exemplo</p>';
+        ?>
+    </li>
+</ul>
+<ul>
+    <ul>
+        <li>
+            <?php
+                $idade = 62;
+                $sexo = 'M';
+                
+                $pagouPrevidencia = true;
+
+                $criterioHomem = ($idade >= 65 && $sexo === 'M');
+                $criterioMulher = ($idade >= 60 && $sexo === 'F');
+                $atingiuCriterio = $criterioHomem || $criterioMulher;
+                $podeAposentar = $pagouPrevidencia && $atingiuCriterio;
+                echo "Pode se aposentar, $podeAposentar";
+            ?>
+        </li>
+        <li>
+            <?php
+                $idade = 68;
+                $sexo = 'M';
+                if($idade >= 62 && $sexo === 'F')
+                {
+                    echo  "Pode se aposentar, {$sexo}eminino";
+                }
+                elseif ($idade >= 65 && $sexo === 'M')
+                {
+                    echo "Pode se aposentar também, {$sexo}asculino";
+                }
+                else
+                {
+                    echo 'Vai ter que trabalhar mais um pouco...';
+                }
+            ?>
+        </li>
+    </ul>
+</ul>
 
 
