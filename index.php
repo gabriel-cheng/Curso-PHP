@@ -167,6 +167,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo amarelo">
+                    <h3>Conteúdo Extra</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=extra&file=formularios">
+                                Formulários - HTML
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
