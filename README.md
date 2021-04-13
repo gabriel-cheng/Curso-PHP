@@ -5,7 +5,7 @@
     <ul>
         <li>
             <strong>
-                O principal objetivo deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de tecnologias utilizadas atualmente para criação de Web sites.                  
+                O principal objetivo deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de tecnologias utilizadas atualmente para desenvolvimento Web.
             </strong>    
         </li>
     </ul>
