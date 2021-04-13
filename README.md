@@ -9,7 +9,7 @@
     </ul>
     <br>
     <li>
-        <strong>COMO ACESSO ESTE SITE?</strong>
+        <h1>COMO ACESSO ESTE SITE?</h1>
     </li>
     <ul>
         <li>
