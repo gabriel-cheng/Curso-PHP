@@ -1,1 +1,3 @@
-O intuito deste site é somente para estudar e aplicar na prática meus conhecimentos em PHP.
+→ PARA QUE SERVE ESTE SITE?
+    O site serve para nada mais do que estudar e colocar em prática meu conhecimento em PHP, HTML e CSS com base em um curso que faço para adiquirir tais capacidades.
+    
