@@ -7,6 +7,13 @@
     margin-top: -25px;
 }
 
+    .module_title{
+            margin-bottom: 12px;
+            border-bottom: 1px solid #000;
+            display: flex;
+            justify-content: center;
+        }
+
 .btn{
     border-radius: 2px;
     cursor: pointer;
