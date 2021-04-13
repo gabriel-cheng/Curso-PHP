@@ -167,11 +167,11 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo amarelo">
+                <div class="modulo html">
                     <h3>Conteúdo Extra</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=extra&file=form">
+                            <a href="exercicio.php?dir=extra/form&file=form">
                                 Formulários - HTML
                             </a>
                         </li>
