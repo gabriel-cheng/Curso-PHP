@@ -4,8 +4,36 @@
     </li>
     <ul>
         <li>
-            <strong>O intuito deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de PHP, HTML, CSS, jQuery, Ajax e Básico de JavaScript.</strong>
-            <blockquote><i>Ênfase em PHP, HTML e CSS.</i></blockquote>
+            <strong>
+                O principal objetivo deste site nada mais é do que estudar a teoria e colocar em prática estudos da área de tecnologias utilizadas atualmente para criação de Web sites.                  
+            </strong>    
+        </li>
+    </ul>
+    <br>
+    <li>
+        <h1>TECNOLOGIAS EM ESTUDO</h1>
+    </li>
+    <ul>
+        <li>
+            <strong>HTML;</strong>
+        </li>
+        <li>
+            <strong>CSS;</strong>
+        </li>
+        <li>
+            <strong>PHP;</strong>
+        </li>
+        <li>
+            <strong>CSS;</strong>
+        </li>
+        <li>
+            <strong>AJAX;</strong>
+        </li>
+        <li>
+            <strong>jQuery;</strong>
+        </li>
+        <li>
+            <strong>BD MySQL;</strong>
         </li>
     </ul>
     <br>
