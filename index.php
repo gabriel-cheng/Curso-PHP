@@ -168,26 +168,31 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo html">
-                    <h3>Conteúdo Extra - HTML</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=extra/form&file=form">
-                                Formulários - HTML
+            </nav>  
+            <!--Extra-->
+            <h1 class="module_title">MÓDULOS EXTRAS</h1>
+                <nav class="modulos">
+                    <div class="modulo html">
+                        <h3>HTML - Extra</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=extra/form&file=form">
+                                    Formulários - HTML
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo web">
+                        <h3>Conceitos WEB - Extra</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=extra/web&file=http">
+                                Protocolo HTTP
                             </a>
                         </li>
-                    </ul>
-                </div>
-                <div class="modulo web">
-                    <h3>Conteúdo Extra - Conceitos WEB</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=extra/web&file=http">
-                            Protocolo HTTP
-                        </a>
-                    </li>
-                </div>  
-            </van>  
+                    </div>  
+                </nav>
+            <!--Extra-->
         </div>  
     </main>
 <footer class="rodape">
