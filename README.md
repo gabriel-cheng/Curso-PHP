@@ -13,7 +13,7 @@
     </li>
     <ul>
         <li>
-            <strong>Atualmente o site não possui um domínio. Portanto, estou disponibilizando apenas o código fonte para que possa ser analisado diretamente por quem tiver interesse de conhecer o projeto.</strong>
+            <strong>Atualmente o site não possui um domínio, portanto estou disponibilizando apenas o código fonte para que possa ser analisado diretamente por quem tiver interesse de conhecer o projeto.</strong>
         </li>
     </ul>
 </ul>
