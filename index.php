@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <link rel="php_icon" href="php_icon.png"/>
     <meta charset="UTF-8">
@@ -176,7 +176,7 @@
                     <h3>HTML - Extra</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=extra/form&file=form">
+                            <a href="extra/form/form.html">
                                 Formulários - HTML
                             </a>
                         </li>
