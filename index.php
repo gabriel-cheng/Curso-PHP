@@ -41,6 +41,21 @@
                                 Operadores Lógicos
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=desafio_op_logicos">
+                                Desafio Operadores Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=op_ternario">
+                                Operador Ternário
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=switch">
+                                Switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">

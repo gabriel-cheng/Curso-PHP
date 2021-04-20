@@ -76,7 +76,7 @@
     <ul>
         <li>
             <?php
-                echo 'O "||" duplo pipe é utilizado para fazer uma operação lógica (OU/OU).';
+                echo 'O "||" duplo pipe é utilizado para fazer uma operação lógica (OR/OU).';
             ?>
         </li>
         <li>
@@ -112,7 +112,7 @@
         <ul>
             <li class="strong">
                 <?php
-                    echo 'Será "true" se nenhum for todas false';
+                    echo 'Será "true" se em nenhum, todas forem false';
                 ?>
             </li>
         </ul>
