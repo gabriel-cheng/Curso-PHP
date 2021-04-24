@@ -56,6 +56,11 @@
                                 Switch
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controles 1&file=desafio_switch">
+                                Desafio Switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">

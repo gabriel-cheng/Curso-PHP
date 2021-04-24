@@ -35,7 +35,7 @@
     }
 </style>
 <p>
-<divl style="font-size: 1.6rem;">
+<div style="font-size: 1.6rem;">
     <?php
         if($_POST['t1'] == '1' && $_POST['t2'] == '1')
         {
