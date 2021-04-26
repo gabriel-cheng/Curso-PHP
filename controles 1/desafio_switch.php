@@ -9,6 +9,8 @@
             <option value="metros-km">Metros - KM</option>
             <option value="anoluz-km">Anos-luz - KM</option>
             <option value="km-anoluz">KM - Anos-luz</option>
+            <option value="c-f">Celsius° - Fahrenheit°</option>
+            <option value="f-c">Fahrenheit° - Celsius°</option>
         </select>
     </div>
     <input style="Display: flex; Margin-top: -1px;" type="text" name="param" placeholder="Informe um valor">
@@ -25,6 +27,8 @@
 <div>
     <?php
         $userValue = $_POST['param'];
+        $fahren = $userValue * 1.8 + 32;
+        $celsius = ($userValue -32) / 1.8;
         switch ($_POST['conversao'])
         {
             case 'km-milha':
@@ -64,57 +68,55 @@
                 break;
             }
             case 'metros-km':
+            {
+                if ($userValue == '1000')
                 {
-                    if ($userValue == '1000')
-                    {
-                        echo $userValue . ' Metros = ' . $userValue / 1000 . " KM";
-                    }
-                    elseif ($userValue == '1')
-                    {
-                        echo $userValue . ' Metro = ' . $userValue / 1000 . " KM's";
-                    }
-                    else
-                    {
-                        echo $userValue . " Metros = " . $userValue / 1000 . " KM's";
-                    }
-                    break;
+                    echo $userValue . ' Metros = ' . $userValue / 1000 . " KM";
                 }
-                case 'anoluz-km':
+                elseif ($userValue == '1')
                 {
-                    if ($userValue == '1')
-                    {
-                        echo $userValue . ' Ano-luz = ' . $userValue * 9,4605284*10e12 . " KM's";
-                    }
-                    else
-                    {
-                        echo $userValue . " Anos-luz = " . $userValue * 9,4605284*10e12 . " KM's";
-                    }
-                    break;
+                    echo $userValue . ' Metro = ' . $userValue / 1000 . " KM's";
                 }
-                case 'km-anoluz':
+                else
                 {
-                    if ($userValue == '1')
-                    {
-                        echo $userValue . 'KM = ' . $userValue / 9,4605284*10e12 . " Anos-luz";
-                    }
-                    else
-                    {
-                        echo $userValue . "KM's = " . $userValue / 9,4605284*10e12 . " Anos-luz";
-                    }
-                    break;
+                    echo $userValue . " Metros = " . $userValue / 1000 . " KM's";
                 }
+                break;
             }
-            
-        // switch ($_POST['conversao'] == 'km-milha')
-        // {
-            // $user = $_POST['param'];
-            // case 'param';
-            //  ($user / 1000) * 0.62137119223733;
-            //  break;
-        // }
-        // if ($_POST['conversao'] == 'milha-km')
-        // {
-            // echo $_POST['param'] * 1.6;
-        // }
+            case 'anoluz-km':
+            {
+                if ($userValue == '1')
+                {
+                    echo $userValue . ' Ano-luz = ' . $userValue * 9,4605284*10e12 . " KM's";
+                }
+                else
+                {
+                    echo $userValue . " Anos-luz = " . $userValue * 9,4605284*10e12 . " KM's";
+                }
+                break;
+            }
+            case 'km-anoluz':
+            {
+                if ($userValue == '1')
+                {
+                    echo $userValue . 'KM = ' . $userValue / 9,4605284*10e12 . " Anos-luz";
+                }
+                else
+                {
+                    echo $userValue . "KM's = " . $userValue / 9,4605284*10e12 . " Anos-luz";
+                }
+                break;
+            }
+            case 'c-f':
+            {
+                echo $userValue . 'C° = ' . $fahren . 'F°';
+                break;
+            }
+            case 'f-c':
+            {
+                echo $userValue . 'F° = ' . $celsius . 'C°';
+                break;
+            }
+        }            
     ?>
 </div>
