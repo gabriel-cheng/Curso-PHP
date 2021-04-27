@@ -18,6 +18,25 @@
         <div class="conteudo">
             <h1 class="module_title">MÓDULOS PHP</h1>
             <nav class="modulos">
+                <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Básico de Array
+                            </a>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_indice">
+                                Desafio Índice
+                            </a>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>4. Controles I</h3>
                     <ul>

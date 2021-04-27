@@ -54,7 +54,7 @@
                     $preco = 55000;
                     break;
                 }
-                default:
+                default: //Else
                 {
                     $carro = 'Mobi';
                     $preco = 33000;
