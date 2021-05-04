@@ -35,6 +35,31 @@
                                 Desafio Índice
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">
+                                Desafio Meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=operacoes">
+                                Operações com Arrays
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                                Desafio Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=array_multidimensional">
+                                Arrays Multidimensionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=jequiti">
+                                Roda-roda Jequiti
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
