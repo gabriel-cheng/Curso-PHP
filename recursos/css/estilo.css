@@ -137,7 +137,12 @@ body {
 .modulo.roxo-escuro { border: 2px solid #4A148C; }
 .modulo.roxo-escuro > h3 { background-color: #4A148C; }
 
+.modulo.pessoais { border: 2px solid #5b8a5d; }
+.modulo.pessoais > h3 { background-color: #4A148C; }
+
 /*Extras*/
+.modulo.pessoais { border: 2px solid #006391; }
+.modulo.pessoais > h3 { background-color: #006391; }
 
 .modulo.web { border: 2px solid #ff00b3; }
 .modulo.web > h3 { background-color: #ff00b3; }
