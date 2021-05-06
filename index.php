@@ -18,6 +18,16 @@
         <div class="conteudo">
             <h1 class="module_title">MÓDULOS PHP</h1>
             <nav class="modulos">
+                <div class="modulo verde-escuro">
+                    <h3>6. Controles 2</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=controles 2&file=for">
+                                Laço For
+                            </a>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo laranja">
                     <h3>5. Array</h3>
                     <ul>
@@ -25,6 +35,7 @@
                             <a href="exercicio.php?dir=array&file=basico">
                                 Básico de Array
                             </a>
+                        </li>
                         <li>
                             <a href="exercicio.php?dir=array&file=mapa">
                                 Mapa
@@ -56,8 +67,23 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=array&file=jequiti">
-                                Roda-roda Jequiti
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Arrays Constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=get">
+                                $_GET
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=post">
+                                $_POST
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                                Comparação de Arrays
                             </a>
                         </li>
                     </ul>
@@ -252,6 +278,16 @@
                         <li>
                             <a href="exercicio.php?dir=extra/web&file=http">
                                 Protocolo HTTP
+                            </a>
+                        </li>
+                    </ul>
+                </div>  
+                <div class="modulo pessoais">
+                    <h3>Projetos Pessoais</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=pessoais&file=jequiti">
+                                Roda-roda Jequiti
                             </a>
                         </li>
                     </ul>
